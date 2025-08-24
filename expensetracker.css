@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f7f8fa;
+    color: #333;
+    padding: 20px;
+}
+
+h1 {
+    color: #3b82f6;
+}
+
+.categories button, .add-expense button {
+    margin: 5px;
+    padding: 10px 20px;
+    border: none;
+    background-color: #3b82f6;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+input, select {
+    padding: 8px;
+    margin: 5px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+canvas {
+    margin-top: 20px;
+}
